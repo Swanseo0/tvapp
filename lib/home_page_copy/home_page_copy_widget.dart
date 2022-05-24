@@ -119,7 +119,7 @@ class _HomePageCopyWidgetState extends State<HomePageCopyWidget> {
                                                               .fromSTEB(
                                                                   0, 0, 5, 0),
                                                       child: Text(
-                                                        'Daredevil',
+                                                        'Daredevil!',
                                                         style:
                                                             FlutterFlowTheme.of(
                                                                     context)
